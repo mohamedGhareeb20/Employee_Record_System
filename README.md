@@ -29,15 +29,15 @@ To run this project locally, you will need a C compiler (like GCC) installed on 
 
 **1. Clone the repository:**
 ```bash
-https://github.com/mohamedGhareeb20/Employee_Record_System.git
-Employee_Record_System
+git clone https://github.com/mohamedGhareeb20/Employee_Record_System.git
+cd Employee_Record_System
 ```
 **2. Compile the code:**
 ```bash
 gcc src/main.c src/employee.c -o bin/employee_app
 ```
 **Run the application:**
-``bash
+```bash
 .\bin\employee_app.exe
 ```
 
