@@ -22,7 +22,7 @@ EMPLOYEERECORDSYSTEM/
     ├── employee.c  (Core logic and linked list operations)
     ├── employee.h  (Struct definitions and prototypes)
     └── main.c      (User interface and menu loop)
-
+```
 ## 🛠️ How to Compile and Run
 
 To run this project locally, you will need a C compiler (like GCC) installed on your system.
