@@ -13,6 +13,8 @@ Unlike basic array-based systems, this project implements a **Singly Linked List
 * **View Operations:** Search for a specific employee by Name, or view all existing employees in the system.
 * **Memory Management:** Safely frees all allocated memory upon exiting the application.
 
+  ![App Screenshot](Screenshot.png)
+
 ## 📂 Project Structure
 
 ```text
